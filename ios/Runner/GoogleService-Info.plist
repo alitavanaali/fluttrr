@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>303930466648-u8cpn59bib80cid1cpfouvurh21oh1aq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.303930466648-u8cpn59bib80cid1cpfouvurh21oh1aq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAw5b2gkqElH35Cw1Qx0-xSvlpriFMBb8w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>303930466648</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ata.tavana.fluttrr</string>
+	<key>PROJECT_ID</key>
+	<string>president-66ef0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>president-66ef0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:303930466648:ios:e784c45bcb71f9f9c9852d</string>
+	<key>DATABASE_URL</key>
+	<string>https://president-66ef0.firebaseio.com</string>
+</dict>
+</plist>

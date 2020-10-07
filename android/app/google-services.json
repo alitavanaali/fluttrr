@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303930466648",
+    "firebase_url": "https://president-66ef0.firebaseio.com",
+    "project_id": "president-66ef0",
+    "storage_bucket": "president-66ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303930466648:android:511dc76a7d380e94c9852d",
+        "android_client_info": {
+          "package_name": "ata.tavana.fluttrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303930466648-3ua8951gl6l192v9e8vt8opfomiuprnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtleZ9gGYGfn8XWmcZxVD5_oWOhGnwAaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303930466648-3ua8951gl6l192v9e8vt8opfomiuprnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303930466648-u8cpn59bib80cid1cpfouvurh21oh1aq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ata.tavana.fluttrr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
